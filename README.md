@@ -9,7 +9,7 @@ Inclui páginas principais: `index.html`, `projetos.html`, `cadastro.html` e `vo
 
 ## Acesse o site
 - Você pode acessar a versão publicada no GitHub Pages:  
-  https://rickpg231.github.io/Atividade2_Ong_Doacao_Animais/
+  https://rickpg231.github.io/Atividade2_Ong_Adocao_Animais/
 
 ---
 
